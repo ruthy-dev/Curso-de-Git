@@ -4,3 +4,4 @@ Olá estou apredendo para ser uma excelente programadora
 Vamos memorizar esses comandos Ruthy
 
 Primeiro, aprenda a ler os status do arquivo
+Siiimbora menina, que em fev precisamos tá na área
