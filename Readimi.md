@@ -1,9 +1,5 @@
 Olá estou apredendo para ser uma excelente programadora
 
-- Aula 01 do curso
-Vamos memorizar esses comandos Ruthy
+- Você aprendeu!
 
-Primeiro, aprenda a ler os status do arquivo
-Siiimbora menina, que em fev precisamos tá na área
-
-Aprender Github é essencial
+Agora avance :)
